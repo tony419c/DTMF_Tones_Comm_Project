@@ -13,4 +13,7 @@ Clone the project and open it with Android Studio. Run the application with any 
 
 ## Author
 
-* ** Tianyang Qiao (Tony) ** - *The whole project*
+*** Tianyang Qiao (Tony) ** - *The whole project*
+
+## Acknowledgement
+* [TarsosDSP](https://github.com/JorenSix/TarsosDSP) - A Java library for audio processing
